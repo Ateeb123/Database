@@ -1,0 +1,14 @@
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\bin\Debug\Repo.exe.config
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\bin\Debug\Repo.exe
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\bin\Debug\Repo.pdb
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.Form1.resources
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.Properties.Resources.resources
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.csproj.GenerateResource.Cache
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.exe
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.pdb
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.Form2.resources
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.Form3.resources
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.Form4.resources
+E:\2nd Year courses\PROJECTS\DATABASE\FrontEnd\Repo\Repo\obj\Debug\Repo.Form5.resources
